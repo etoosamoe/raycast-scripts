@@ -7,7 +7,7 @@
 
 # Optional parameters:
 # @raycast.icon 💡
-# @raycast.argument1 { "type": "text", "placeholder": "IP Address" }
+# @raycast.argument1 { "type": "text", "placeholder": "IP / DNS" }
 # @raycast.argument2 { "type": "text", "placeholder": "Port" }
 # @raycast.packageName Network Tools
 
